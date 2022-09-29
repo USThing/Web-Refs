@@ -37,6 +37,6 @@
 #### Basic APIs:https://www.geeksforgeeks.org/rest-api-introduction/
 #### Test APIs:https://www.postman.com/
 #### Web Team General Guidelines:https://hackmd.io/aJ7BAKdiTFOU6hAhAv0HnA?view
-#### UST Web GuideLines: https://pao.ust.hk/Bdownload/HKUST_website_guideline.pdf
+#### UST Website GuideLines: https://pao.ust.hk/Bdownload/HKUST_website_guideline.pdf
 
 ## HomeWork: Finish Technical Test with Typescript and Next.js
