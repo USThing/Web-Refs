@@ -1,5 +1,5 @@
 # USThing-Web-Refs
-## Technical Refs:
+### Technical Refs:
 ### Major Libs:
 #### Typescript: https://www.typescriptlang.org/docs/handbook/intro.html
 #### React.js:https://reactjs.org/docs/getting-started.html/
@@ -37,4 +37,4 @@
 ##### Basic APIs:https://www.geeksforgeeks.org/rest-api-introduction/
 ##### Test APIs:https://www.postman.com/
 
-# HomeWork: Finish Technical Test with Typescript and Next.js
+## HomeWork: Finish Technical Test with Typescript and Next.js
