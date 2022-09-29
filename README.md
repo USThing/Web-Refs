@@ -1,5 +1,4 @@
 # USThing-Web-Refs
-
 # Technical Refs:
 ## Major Libs:
 #### Typescript: https://www.typescriptlang.org/docs/handbook/intro.html
