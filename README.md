@@ -1,6 +1,6 @@
 # USThing-Web-Refs
-# Technical Refs:
-## Major Libs:
+## Technical Refs:
+### Major Libs:
 #### Typescript: https://www.typescriptlang.org/docs/handbook/intro.html
 #### React.js:https://reactjs.org/docs/getting-started.html/
 #### Next.js:https://nextjs.org/docs/getting-started/
