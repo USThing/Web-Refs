@@ -7,7 +7,7 @@
 #### Html/Css/Javascript:https://www.w3schools.com/html/
 #### loadsh:https://lodash.com/
 
-## ClasswWork:
+## ClassWork:
 
 
 ## HomeWork:
