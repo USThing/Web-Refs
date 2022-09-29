@@ -1,7 +1,7 @@
 # USThing-Web-Tutorials
 ### Welcoem to Usthing Web Tutorials
 ## syllabus:
-#### Typescript: https://www.typescriptlang.org/docs/handbook/intro.html/
+#### Typescript: https://www.typescriptlang.org/docs/handbook/intro.html
 #### React.js:https://reactjs.org/docs/getting-started.html/
 #### Next.js:https://nextjs.org/docs/getting-started/
 #### Html/Css/Javascript:https://www.w3schools.com/html/
