@@ -33,10 +33,17 @@
 ##### Node:https://nodejs.org/en/
 ##### SSH-KEY:https://support.atlassian.com/bitbucket-cloud/docs/set-up-an-ssh-key/
 
-#### Additional Materials
+### Additional Materials(Non-Technical Refs)
 #### Basic APIs:https://www.geeksforgeeks.org/rest-api-introduction/
 #### Test APIs:https://www.postman.com/
 #### Web Team General Guidelines:https://hackmd.io/aJ7BAKdiTFOU6hAhAv0HnA?view
 #### UST Website GuideLines: https://pao.ust.hk/Bdownload/HKUST_website_guideline.pdf
 
-## HomeWork: Finish Technical Test with Typescript and Next.js
+### Suggested VScode Extensions
+#### TSLint
+#### ESLint
+#### Prettier
+#### Import Cost
+#### Git Graph
+
+### HomeWork(Optional): Finish Technical Test with Typescript and Next.js
