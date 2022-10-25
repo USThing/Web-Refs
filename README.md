@@ -1,9 +1,11 @@
 # USThing-Web-Refs
 ## Development Repo:
 https://github.com/USThing/web-revamp
-## Optional Tutorials Coming Soon
+## Tutorials :
+https://hackmd.io/qNvyyyzsT9mJvn5yL9_okA?view
 
-### Technical Refs:
+## Technical Refs:
+
 ### Major Libs:
 #### Typescript: https://www.typescriptlang.org/docs/handbook/intro.html
 #### React.js:https://reactjs.org/docs/getting-started.html/
