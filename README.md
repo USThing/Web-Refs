@@ -1,12 +1,15 @@
 # USThing-Web-Refs
+
 ## Development Repo:
 https://github.com/USThing/web-revamp
 ## Tutorials :
 https://hackmd.io/qNvyyyzsT9mJvn5yL9_okA?view
-##Designs:
-https://www.figma.com/file/YVCjJiFd5MPZNRA4Yy9dBk/USTools-(New-Freature)-Wire-Frame?type=design&node-id=283-256&t=34JEQZ54ymCBgTkN-0
-https://www.figma.com/file/BYY3U0Z84kJgeLFrlzdPP0/USTool-Admin-page%2FLogin-page?type=design&node-id=0-1&t=WUi4GXPqb3Cd00yl-0
-https://www.figma.com/file/kc8U0eyW3h8JeZjxhwZKUv/Web-Redesign?node-id=1910-337&t=pWbhm9Jf5SBbQOgC-0
+
+## Designs :
+1. https://www.figma.com/file/YVCjJiFd5MPZNRA4Yy9dBk/USTools-(New-Freature)-Wire-Frame?type=design&node-id=283-256&t=34JEQZ54ymCBgTkN-0
+2. https://www.figma.com/file/BYY3U0Z84kJgeLFrlzdPP0/USTool-Admin-page%2FLogin-page?type=design&node-id=0-1&t=WUi4GXPqb3Cd00yl-0
+3. https://www.figma.com/file/kc8U0eyW3h8JeZjxhwZKUv/Web-Redesign?node-id=1910-337&t=pWbhm9Jf5SBbQOgC-0
+
 ## Technical Refs:
 
 ### Major Libs:
